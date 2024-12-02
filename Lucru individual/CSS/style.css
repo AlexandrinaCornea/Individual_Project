@@ -1,0 +1,22 @@
+.logo {
+    width: 30px;
+}
+
+.myMap iframe {
+    border: 0;
+    width: 100%;
+    height: 452px;
+}
+
+.card2 img{
+    width: 100%;
+    height: 460px;
+}
+
+.imgc {
+    max-height: calc(100vh - 80px);
+}
+html {
+    scroll-behavior: smooth;
+    scroll-padding: 6rem;
+}
